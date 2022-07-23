@@ -2,79 +2,13 @@
 	box-sizing: border-box;
 }
 
-h1{
-	text-align: center;
-	font-size: 48px;
-	margin: 20px 0px 20px 0px;
-	font-family: 'Bebas Neue', cursive;
+
+h2{
+  text-align: center;
 }
 
-#container{
-	position: relative;
-
-}
-
-.row{
-    width: 100%;
-}
-
-#sec1{
-	background-color: #fdbcb4;
-	height: 40px;
-	width: 150px;
-	text-align: center;
-	font-size: 20px;
-	font-family: 'Bebas Neue', cursive;
-	top: 0;
-	right: 0;
-	position: absolute;
-	padding: 8px 10px 10px 10px;
-	margin-top: 16px;
-	font-weight: bold;
-}
-
-#sec2{
-	background-color: #e77878;
-	height: 40px;
-	width: 150px;
-	text-align: center;
-	top: 0;
-	font-size: 20px;
-	margin-top: 16px;
-	font-family: 'Bebas Neue', cursive;
-	right: 0;
-	position: absolute;
-	padding: 8px 10px 10px 10px;
-	font-weight: bold;
-
-}
-
-#sec3{
-	background-color: #FFE4B5;
-	height: 40px;
-	width: 150px;
-	text-align: center;
-	font-family: 'Bebas Neue', cursive;
-	top: 0;
-	font-size: 20px;
-	right: 0;
-	margin-top: 16px;
-	position: absolute;
-	padding: 8px 10px 10px 10px;
-	font-weight: bold;
-
-}
-
-p{
-	height: 190px;
-	background-color: #a9a9a9;
-	border: 2px solid black;
-	margin-right: 15px;
-	overflow: hidden;
-	text-align: justify;
-	font-family: 'Roboto', sans-serif;
-	padding: 45px 10px 5px 10px;
-
+#navbar-header{
+  background-color: orange;
 }
 
 /* For Large devices only */
@@ -91,7 +25,7 @@ p{
   .col-lg-3 {
     width: 25%;
   }
-  .col-lg-4 {
+  .col-lg-
     width: 33.33%;
   
   }
